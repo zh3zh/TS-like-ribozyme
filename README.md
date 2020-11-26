@@ -1,7 +1,7 @@
 # CODA2
 
 # Introduction
-This is modified version of CODA for RtcB ligation based deep mutational scanning. It is used to generate the base-pairing map from deep mutational sequencing data of RNA ribozyme, with the method introduced in the paper "Resurrecting self-cleaving mini-ribozymes from 40-million-year-old LINE-1 elements in human genome".
+This is modified version of CODA for RtcB ligation based deep mutational scanning. It is used to generate the base-pairing map from deep mutational sequencing data of RNA ribozyme, with the method introduced in the paper 
 
 # Requirement
 
