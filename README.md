@@ -1,7 +1,7 @@
-# CODA2
+# TS-like ribozyme
 
 # Introduction
-This is modified version of CODA for RtcB ligation based deep mutational scanning. It is used to generate the base-pairing map from deep mutational sequencing data of RNA ribozyme, with the method introduced in the paper 
+This is modified version of CODA for RtcB ligation based deep mutational scanning. It is used to generate the base-pairing map from deep mutational sequencing data of RNA ribozyme, with the method introduced in the paper. We also provided the processed .ra files (L1-fl.ra, L1-mini.ra, OR-fl.ra) from different DMS experiments. 
 
 # Requirement
 
