@@ -44,9 +44,10 @@ Before running this pipline, make sure these programs were correctly installed.
   
   var.pos.ra: organized relative activity of all mutants of each position pair
   
-  var.msa_RA_0.5: sequence alignment of variants with relative activity higher than 0.5
-  
   pred.mtx: ps score matrix
   
   pred.ss: 100 predicted secondary structure in the bracket format with a consensus prediction
   
+# Reference:
+
+  Zhang et al. eLife 2023;13:RP90254. DOI: https://doi.org/10.7554/eLife.90254
